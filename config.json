@@ -1,5 +1,5 @@
 {
-  "debug": true,
+  "debug": false,
   "output_file": "cookies.csv",
   "input_file": {
     "name": "sites.txt",
